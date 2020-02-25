@@ -1,2 +1,3 @@
 # clouds
-demo 
+This is my first cloud project for demo purpose
+
